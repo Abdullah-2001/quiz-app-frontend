@@ -1,0 +1,36 @@
+/* @import "tailwindcss";
+
+@font-face {
+  font-family: 'monaSans-regular';
+  src: url(../src/assets/fonts/monaSans/MonaSans-Regular.ttf);
+}
+
+@font-face {
+  font-family: 'monaSans-medium';
+  src: url(../src/assets/fonts/monaSans/MonaSans-Medium.ttf);
+}
+
+@font-face {
+  font-family: 'monaSans-bold';
+  src: url(../src/assets/fonts/monaSans/MonaSans-Bold.ttf);
+}
+
+div::-webkit-scrollbar {
+  display: none;
+}
+
+div {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+
+body {
+  background: #0f0c29;
+  background: -webkit-linear-gradient(to right, #24243e, #302b63, #0f0c29);
+  background: linear-gradient(to right, #24243e, #302b63, #0f0c29);
+  color: white;
+}
+
+.font-regular { font-family: 'monaSans-regular' }
+.font-medium { font-family: 'monaSans-medium' }
+.font-bold { font-family: 'monaSans-bold' } */
